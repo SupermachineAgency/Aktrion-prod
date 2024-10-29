@@ -36943,6 +36943,10 @@
                 "LON": -3.649,
                 "LAT": 40.227,
                 "CONTACT": "https://www.aktrion.com/contact?tab=spain",
+                "CTA": {
+                    "linkText": "Discover",
+                    "link": "https://www.youtube.com/watch?v=j61yOretAWw"
+                },
                 "BODYTEXT":"With 5,000 sqm and a team of 30 experts, Our Automotive Service hub provides analysis, diagnosis, certification, and maintenance for electric, hybrid, and combustion vehicles."
             },
             "geometry": {
