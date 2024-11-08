@@ -25,7 +25,7 @@
         "type": "fill",
         "source": "protomaps",
         "source-layer": "earth",
-        "paint": {"fill-color": "#636366"}
+        "paint": {"fill-color": "#adadad"}
       },
       {
         "id": "landuse_park",
