@@ -25,7 +25,7 @@
       "type": "fill",
       "source": "protomaps",
       "source-layer": "earth",
-      "paint": {"fill-color": "#dcdcdc"}
+      "paint": {"fill-color": "#adadad"}
     },
     {
       "id": "landuse_park",
@@ -238,7 +238,7 @@
       "type": "fill",
       "source": "protomaps",
       "source-layer": "water",
-      "paint": {"fill-color": "#fbf7f2"}
+      "paint": {"fill-color": "#f2f2ec"}
     },
     {
       "id": "physical_line_stream",
@@ -1193,11 +1193,7 @@
       "source": "protomaps",
       "source-layer": "boundaries",
       "filter": ["<=", "pmap:min_admin_level", 2],
-      "paint": {
-        "line-color": "#adadad",
-        "line-width": 1,
-        "line-dasharray": [3, 2]
-      }
+      "paint": {"line-color": "#fff", "line-width": 1}
     },
     {
       "id": "boundaries",
