@@ -26,7 +26,7 @@
                 "BODYTEXT": "Welcome to our first Automotive Service hub, in which your fleet is completely taken care of. From pick-up, to inspection, to repair, and all the way to sustainable remarketing."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -4557,7 +4557,7 @@
                 "BODYTEXT": "Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5106,7 +5106,7 @@
                 "BODYTEXT":"Count on us as your one stop shop automotive partner for inspections, development, body & paint services, logistics and sustainable remarketing, also for electric vehicles."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5844,7 +5844,7 @@
                 "BODYTEXT":"Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -6757,7 +6757,7 @@
                 "BODYTEXT":"Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7522,7 +7522,7 @@
                 "BODYTEXT":"Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -8339,7 +8339,7 @@
                 "BODYTEXT":"Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14574,7 +14574,7 @@
                 "BODYTEXT":"Empower your production processes with flexible engineering services, inspections, and quality support, all the way to aftersales, including recalls and warranty support."
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
